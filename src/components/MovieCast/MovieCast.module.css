@@ -1,0 +1,22 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
+
+.castList {
+  max-width: 250px;
+  text-align: center;
+}
+
+.castImage {
+  border-radius: 10px;
+}
+
+.castText {
+  margin-top: 10px;
+  color: #ffffff;
+  font-size: 16px;
+}
